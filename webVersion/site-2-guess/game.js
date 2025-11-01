@@ -22,9 +22,9 @@ const CONFIG = {
     
     // API paths (already in loadCharacterData, but centralized here for visibility)
     DATA_PATHS: [
-        'assets/data_as_map.json',
         '../../assets/data_as_map.json',
         '../assets/data_as_map.json',
+        'assets/data_as_map.json',
         './data_as_map.json'
     ],
     
